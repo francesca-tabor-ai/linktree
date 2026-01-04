@@ -35,8 +35,8 @@ export const profileData: Profile = {
   primaryLinks: [
     {
       id: 'portfolio',
-      title: 'AI Portfolio & Research',
-      url: 'https://notebooklm.google.com/notebook/3fd9d1e5-7a7f-44a8-a1dc-15212dc8788e',
+      title: 'AI Portfolio',
+      url: 'https://docs.google.com/presentation/d/1aiRWIZ8ulKTfWZrMSEA-6hkzaLrEYU3OfAgFDXxn4HY/edit?slide=id.g3ab71eed56d_0_2&pli=1#slide=id.g3ab71eed56d_0_2',
     },
   ],
 
